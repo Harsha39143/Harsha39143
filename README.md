@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc5ODdqYm5xdnZqMjhtZ29ydmloamNpaG9mcXFhaTRqYjl6dzIwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJxaUysjzO9ri/giphy.gif" alt="image">
+    <img src="https://animetv-jp.net/wp-content/uploads/2024/03/GJ7boIgaoAACW6g-696x392.jpeg" alt="image">
 </body>
 </html>
